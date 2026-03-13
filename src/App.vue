@@ -1,4 +1,5 @@
 <template>
+    <p> grupo: Caue e Filipe</p>
     <div class="app">
         <h1 class="title">Calculadora de Gorjeta e Divisao</h1>
 
